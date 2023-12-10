@@ -8,7 +8,7 @@
 
 - 스타일링 : Tailwind CSS or CSS Module
 
-- 이미지, 글꼴 최적화
+- 이미지, 글꼴 최적화 : next/image, next/font 라이브러리 이용
 
 - 파일 시스템 라우팅
 
