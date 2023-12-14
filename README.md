@@ -10,11 +10,11 @@
 
 - 이미지, 글꼴 최적화 : next/image, next/font 라이브러리 이용
 
-- 파일 시스템 라우팅 
+- 파일 시스템 라우팅
 
 - Fetching Data : Route Handler
 
-- 검색 및 페이지 지정 : URL Search Params
+- 검색 및 페이지 지정 : URL Search Params, use-debounce 라이브러리 이용
 
 - 데이터 변형 : React Server Action
 
