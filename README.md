@@ -27,5 +27,14 @@
 - Next.js
 - Tailwind CSS
 - Typescript
+- sql
+
+### 라이브러리
+
+- next/image, next/font
+- 'next/navigation, next/cache
+- zod : 유효성 검사 라이브러리
+- use-debounce : 함수의 실행을 지연시켜주는 라이브러리
+- vercel/postgres
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
