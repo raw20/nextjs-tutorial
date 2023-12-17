@@ -37,4 +37,8 @@
 - use-debounce : 함수의 실행을 지연시켜주는 라이브러리
 - vercel/postgres
 
+### 배포
+
+- vercel
+
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
